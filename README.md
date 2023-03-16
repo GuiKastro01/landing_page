@@ -1,3 +1,8 @@
-# landing_page
+Nome: Gabriel Martins da Silva
+RA: 22.01156-0
 
-Criação de uma Landing Page que contém informações sobre a Mauá Net e um link para alunos acessarem o login do Mauá Net
+Nome: Guilherme Ferreira do Nascimento
+RA: 22.01285-0
+
+Nome: Guilherme Castro Alves
+RA: 22.00916-7
